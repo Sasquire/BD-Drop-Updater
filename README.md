@@ -1,6 +1,6 @@
 # BD-Drop-Updater
 
-### [Install](https://raw.githubusercontent.com/Sasquire/BD-Drop-Updater/master/user.js)
+### [Install](https://github.com/Sasquire/BD-Drop-Updater/raw/master/main.user.js)
 You must have some user script manager. [Greasy Fork](https://greasyfork.org/en) has a good list. (I use tampermonkey)
 
 This user script will create an alternative UI for Bad-Dragon's clearance page. This provides a semi-live viewing experience with seeing what toys have been taken, and which are still available. It also provides the ability to "wish list" something so that you will automatically try to add it to your cart.
