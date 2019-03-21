@@ -27,26 +27,26 @@ I put this tool out in the hopes that people will use it responsibly. I do not t
 
 ### FAQ
 
-**Q: Will I get banned for doing this**
-A: I have no idea. Probably not.
+**Will I get banned for doing this**
+I have no idea. Probably not.
 
-**Q: It crashed when I was doing X**
-A: That's not a question, but please contact me with what was happening when it crashed.
+**It crashed when I was doing X**
+That's not a question, but please contact me with what was happening when it crashed.
 
-**Q: How do I contact you?**
+**How do I contact you?**
 I would prefer initial contact through github.
 
-**Q: Can I trust you?**
-A: Hopefully with the restrictions and security from your user script manager you don't need to. 
+**Can I trust you?**
+Hopefully with the restrictions and security from your user script manager you don't need to. 
 
-**Q: Why does(n't) it do X**
-A: Because I probably haven't thought of doing something else or doing it that way was simple.
+**Why does(n't) it do X**
+Because I probably haven't thought of doing something else or doing it that way was simple.
 
-**Q: Can you make it do X**
-A: Probably. If you message me I might consider it.
+**Can you make it do X**
+Probably. If you message me I might consider it.
 
-**Q: Can *I* make it do X**
-A: Please do. If you write a feature, I will probably accept it.
+**Can *I* make it do X**
+Please do. If you write a feature, I will probably accept it.
 
-**Q: I really like this and want to buy you a coffee**
-A: I don't like coffee, but I'll take a bottle of lube. Send me a message.
+**I really like this and want to buy you a coffee**
+I don't like coffee, but I'll take a bottle of lube. Send me a message.
