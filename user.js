@@ -6,6 +6,9 @@
 
 // @namespace   https://github.com/Sasquire/
 // @supportURL  https://github.com/Sasquire/
+// @updateURL   https://raw.githubusercontent.com/Sasquire/BD-Drop-Updater/master/user.js
+// @downloadURL https://raw.githubusercontent.com/Sasquire/BD-Drop-Updater/master/user.js
+// @icon        https://drsh06c3izsth.cloudfront.net/static-media/icons/favicon.png
 
 // @match        https://bad-dragon.com/shop/clearance*
 // @match        http://bad-dragon.com/shop/clearance*
