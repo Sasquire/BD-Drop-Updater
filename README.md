@@ -1,6 +1,7 @@
 # BD-Drop-Updater
 
 ![Example screenshot](https://github.com/Sasquire/BD-Drop-Updater/raw/master/example_screenshot.png)
+
 Toys replaced with images of kittens.
 
 ### [Install](https://github.com/Sasquire/BD-Drop-Updater/raw/master/main.user.js)
