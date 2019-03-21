@@ -77,7 +77,7 @@ async function init(){
                 <option value="descending">descending</option>
             </select>
             <input type="checkbox" id="downloading_on" checked><span>Keep updating page</span>
-            <input type="number" id="time_to_wait" value="10"><span>Time to wait between updates</span>
+            <input type="number" id="time_to_wait" value="20"><span>Time to wait between updates</span>
             <input type="checkbox" id="hide_stock" checked><span>Hide stock toys</span>
             <button id="iframe_destroyer" onclick="document.getElementById('other_iframe').src='about:blank';">
                 Dismiss Error
